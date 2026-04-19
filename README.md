@@ -47,7 +47,7 @@ The goal of this project is to:
 
 12. Phase 12 — Sorting and Searching
 
-13. Phase 13 (⏳ In Progress)
+13. Phase 13 — (⏳ In Progress)
 
 
 ---
