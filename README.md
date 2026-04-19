@@ -45,6 +45,9 @@ The goal of this project is to:
 
 11. Phase 11 — Specialized Topics
 
+12. Phase 12 — Sorting and Searching
+
+
 ---
 
 ## Project Goal
