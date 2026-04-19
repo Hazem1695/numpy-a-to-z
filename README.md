@@ -8,7 +8,7 @@ This project is designed for developers, data scientists, and AI engineers who w
 
 ## About This Repository
 
-This repository is organized into **11 structured phases**, each focusing on key concepts with practical and clear explanations.
+This repository is organized into **13 structured phases**, each focusing on key concepts with practical and clear explanations.
 
 The goal of this project is to:
 
@@ -47,7 +47,7 @@ The goal of this project is to:
 
 12. Phase 12 — Sorting and Searching
 
-13. Phase 12 (⏳ In Progress)
+13. Phase 13 (⏳ In Progress)
 
 
 ---
